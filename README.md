@@ -8,6 +8,10 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
+## Other Stuff
+- :octocat: [My Resume](https://github.com/eusebiujacot/eusebiujacot/blob/main/CV%20-%20Eusebiu%20Jacot%20job.pdf)
+- :octocat: [My Certificate](https://github.com/eusebiujacot/eusebiujacot/blob/main/Eusebiu%20Jacot%20-Backend_EN.pdf)
+
 ## Who am I?
 ```java
 public class WhoAmI {
@@ -36,13 +40,10 @@ public class WhoAmI {
     public String[] getAmbitions() {
         return new String[] {
             "Be the perfect father",
-            "Become a billionaire",
-            "Finish My Novel",
+            "Become a billionaire"
             // Assume 10 more awesome ambitions here ;)
         };
     }
 }
 ```
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/drive/my-drive)
 
