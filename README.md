@@ -7,7 +7,7 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## Other Stuff
-- :octocat: [My Resume](https://github.com/eusebiujacot/eusebiujacot/blob/main/CV%20-%20Eusebiu%20Jacot%20job.pdf)
+- :octocat: [My Resume]([https://github.com/eusebiujacot/eusebiujacot/blob/main/CV%20-%20Eusebiu%20Jacot%20job.pdf](https://github.com/eusebiujacot/eusebiujacot/blob/main/Eusebiu_Jacot_-_Java_Developer.pdf))
 - :octocat: [My Certificate](https://github.com/eusebiujacot/eusebiujacot/blob/main/Eusebiu%20Jacot%20-Backend_EN.pdf)
 
 ## Who am I?
@@ -23,7 +23,7 @@ public class WhoAmI {
     };
 
     public String getCity() {
-        return "Madrid, Spain";
+        return "Dachan, Munich, Germany";
     }
 
     public String[] getLanguages() {
@@ -38,7 +38,9 @@ public class WhoAmI {
     public String[] getAmbitions() {
         return new String[] {
             "Be the perfect husband and father",
-            "Become a billionaire"
+            "Become a billionaire",
+            "Grow up avery day",
+            "Be a good person",t
             // Assume 10 more awesome ambitions here ;)
         };
     }
