@@ -7,7 +7,7 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## Other Stuff
-- :octocat: [My Resume]([https://github.com/eusebiujacot/eusebiujacot/blob/main/Eusebiu_Jacot_-_Java_Developer.pdf])
+- :octocat: [My Resume](https://github.com/eusebiujacot/eusebiujacot/blob/11a0420e79c5898283f4142a212e17cb3a0bc898/Eusebiu_Jacot_-_Java_Developer.pdf)
 - :octocat: [My Certificate](https://github.com/eusebiujacot/eusebiujacot/blob/main/Eusebiu%20Jacot%20-Backend_EN.pdf)
 
 ## Who am I?
